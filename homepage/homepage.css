@@ -1,0 +1,28 @@
+.title{
+    text-align: center;
+    color: red;
+}
+
+.linkContainer{
+    text-align: center;
+}
+
+.buttonContainer{
+    background-color: orange;
+    text-align: center;
+    width: 20em;
+    height: 3em;
+    border: black;
+    border-style: solid;
+    border-width: 3px;
+    display:inline-block;
+    margin-bottom: 30px;
+}
+
+.buttonContainer:hover{
+    background-color: cyan;
+}
+
+.center{
+    text-align: center;
+}
